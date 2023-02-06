@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dreamhouse Lightning Web Components Sample Application
 
 [![CI Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/CI/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3ACI) [![Packaging Workflow](https://github.com/trailheadapps/dreamhouse-lwc/workflows/Packaging/badge.svg)](https://github.com/trailheadapps/dreamhouse-lwc/actions?query=workflow%3APackaging) [![codecov](https://codecov.io/gh/trailheadapps/dreamhouse-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/dreamhouse-lwc)
@@ -213,3 +214,7 @@ Code Tours are guided walkthroughs that will help you understand the app code be
 ## Credits
 
 The app GeocodingService uses OpenStreetMap API to geocode property addresses. OpenStreetMap® is open data, licensed under the [Open Data Commons Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/) by the [OpenStreetMap Foundation (OSMF)](https://wiki.osmfoundation.org/wiki/Main_Page). You are free to copy, distribute, transmit and adapt OpenStreetMap data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same licence. The [full legal code](https://opendatacommons.org/licenses/odbl/1-0/) explains your rights and responsibilities in regard to the service.
+=======
+# jenkins-sfdx
+For testing deployment with jenkins
+>>>>>>> de373a5de482b2983fed4d8649382218b3751129
